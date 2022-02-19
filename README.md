@@ -26,6 +26,7 @@ Hence creating a software simulation of the Vending Machine has been designed us
 5. Displaying the out of stock message in case of the item is on short from the inventory
 6. checkout of the cart using the Total bill button to display the total amount and accept the cash from the user
 7. In case of Cash submit
+    
     -- if exact total/extra amount  given by user then display of appropriate message with/without change to be returned
 
 outcome: User Friendly GUI simulation for dispensing items using Vending Machine design
